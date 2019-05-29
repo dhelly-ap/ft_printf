@@ -29,9 +29,9 @@ The syntax for a format placeholder is
 # Type
 
 <ul>
-<li>%c %s %p</li>
-<li>%d %i %o %u %x %X</li>
-<li>%f</li>
+<li>csp</li>
+<li>diouxX</li>
+<li>f</li>
 </ul>
 
 # Compile
