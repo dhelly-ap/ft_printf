@@ -4,7 +4,7 @@ This project is a copy of the original printf function of C langage
 # Syntax
 The syntax for a format placeholder is
 
-%[parameter][flags][width][.precision][length]type
+%[flags][width][.precision][length]type
 
 # This version supports the following flags
 
